@@ -1,7 +1,14 @@
 ## Hi there 👋
+# 🚀 About Me
+## Hi, I'm Swati..! 👋
 
-<!--
-**swatiii-sys/swatiii-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I'm currently working as Data Scientist
+
+### 📫 How to reach me...
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swati-chhanikar-37115728a/)
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
